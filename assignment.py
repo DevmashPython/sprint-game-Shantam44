@@ -67,3 +67,8 @@ while(1):
 time_elapsed = time.time()-start_time
 print "congo you won"
 print"time taken is=",str(round(time_elapsed))
+
+
+'''
+1. Mention controls for the game.
+'''
