@@ -8,8 +8,11 @@ count1=-1
 finish1=5
 count2=0
 finish2=7
-
+print"use direction keys for movement"
+print"first move towards right then down and again right to complete the whole circuit"
+print"all the best!!!!!"
 print "press enter key"
+raw_input()
 start_time = time.time()
 
 while(1):
